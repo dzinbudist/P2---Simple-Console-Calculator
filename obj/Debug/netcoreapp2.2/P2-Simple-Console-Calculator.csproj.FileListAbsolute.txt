@@ -1,0 +1,11 @@
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\obj\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.csprojAssemblyReference.cache
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\obj\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\obj\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.AssemblyInfoInputs.cache
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\obj\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.AssemblyInfo.cs
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\bin\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.deps.json
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\bin\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.runtimeconfig.json
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\bin\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.runtimeconfig.dev.json
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\bin\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.dll
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\bin\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.pdb
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\obj\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.dll
+C:\Users\Andrius\Documents\GitHub\P2-Simple-Console-Calculator\obj\Debug\netcoreapp2.2\P2-Simple-Console-Calculator.pdb
