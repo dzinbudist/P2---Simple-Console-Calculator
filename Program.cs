@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace P2_Simple_Console_Calculator
 {
@@ -18,6 +19,7 @@ namespace P2_Simple_Console_Calculator
       Console.WriteLine(aMessage);
       float aConvertedFloat;
       string aValue = Console.ReadLine();
+      aValue = aValue.Replace(',', '.');
 
       if (String.IsNullOrEmpty(aValue))
       {
