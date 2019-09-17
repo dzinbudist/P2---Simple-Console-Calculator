@@ -3,12 +3,12 @@ using System.Globalization;
 
 namespace P2_Simple_Console_Calculator
 {
-  class Program
+  public class Program
   {
     public static float aFirstValue, aSecondValue;
     public static string aSymbol;
 
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
       Console.WriteLine("Paprastas skaičiuotuvas. Programa gali sudėti, atimti, dauginti ir dalinti du vartotojo įvestus skaičius.");
       CheckValue("Įveskite pirmą reikšmę", 1);
